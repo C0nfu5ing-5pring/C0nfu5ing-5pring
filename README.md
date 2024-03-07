@@ -2,8 +2,6 @@
 <h3 align="center">Hello there! I'm Shish, a teenager passionate about web development and coding.</h3>
 <img align="right" alt="Coding 🤓" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=c0nfu5ing-5pring&label=Profile%20views&color=0e75b6&style=flat" alt="c0nfu5ing-5pring" /> </p>
-
 - 🌱 I’m currently learning **JavaScript and Tailwind CSS**
 
 - 👨‍💻 All of my projects are available at [https://github.com/C0nfu5ing-5pring](https://github.com/C0nfu5ing-5pring)
