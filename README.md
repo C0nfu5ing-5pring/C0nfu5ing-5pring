@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Shish Fruitwala</h1>
+<h1 align="center">Hi 👋, I'm Shish Frutwala</h1>
 
 <p align="center">
   <img src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" alt="coding" width="300"/>
