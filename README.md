@@ -23,7 +23,9 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="SASS" width="40" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="40" />
-  <img src="https://raw.githubusercontent.com/cdnjs/logos/master/gsap.svg" alt="GSAP" width="40" />
+  <a href="https://greensock.com/gsap/" target="_blank">
+  <img src="https://greensock.com/uploads/monthly_2020_05/gsap-greensock.png" alt="GSAP" width="40" />
+</a>
 </p>
 
 ---
