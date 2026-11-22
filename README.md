@@ -1,38 +1,61 @@
-<h1 align="center">Hi 👋, I'm Shish Frutwala</h1>
+# SHISH FRUTWALA
 
-<p align="center">
-  <img src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" alt="coding" width="300"/>
-</p>
+### HACKCLUBBER
 
----
-
-🚀 Passionate about building sleek web experiences with **JavaScript**, **React**, and a flair for **animations**.
-
-- 💻 Currently sharpening skills in: **Fullstack Web Development**
-- 🧠 All my work lives here: [GitHub](https://github.com/C0nfu5ing-5pring)
-- 📫 Reach me at: **shishfruitwala29@gmail.com**
+`18` `INDIA`
 
 ---
 
-### 🛠️ Languages & Tools
+> I BUILD WEBSITES, GAMES AND SOMETIMES JUST WEIRD CAD DESIGNS THAT I AM AFRAID OF PRINTING ON MY 3D PRINTER
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML" width="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS" width="40" />
-  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind" width="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="SASS" width="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="40" />
-  <a href="https://greensock.com/gsap/" target="_blank">
-  <img src="https://greensock.com/uploads/monthly_2020_05/gsap-greensock.png" alt="GSAP" width="40" />
-</a>
-</p>
+[ GITHUB ](https://github.com/C0nfu5ing-5pring) / [ LINKEDIN ](https://www.linkedin.com/in/shish-frutwala) / [ EMAIL ](mailto:shishfruitwala29@gmail.com)
 
 ---
 
-### 📊 Most Used Languages
+## WHAT I WORK WITH
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=C0nfu5ing-5pring&layout=compact&theme=tokyonight" alt="Top Languages" />
+**FRONTEND**
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,sass,tailwind,js,react,nextjs" />
+  <img src="https://skillicons.dev/icons?i=graphql" />
 </p>
 
+**BACKEND & DATABASE**
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mysql,mongodb,python" />
+</p>
+
+**INFRASTRUCTURE & DEPLOYMENT**
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=raspberrypi,cloudflare,vercel,linux,git,github" />
+</p>
+
+**GAME DEVELOPMENT**
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=godot" />
+  <img src="https://cdn.simpleicons.org/renpy/FF7F7F" height="48" alt="Ren'Py" />
+</p>
+
+**3D PRINTING**
+
+<p align="left">
+  <a href="https://www.onshape.com/">
+  ONSHAPE
+  </a>
+</p>
+
+## SELECTED WORK
+
+I LIKE BUILDING THINGS THAT SOLVE ACTUAL PROBLEMS.
+
+→ [SARAL RATES](https://github.com/C0nfu5ing-5pring)  
+Agricultural market prices for farmers and traders
+
+→ [SOLVE IT](https://github.com/C0nfu5ing-5pring)  
+Find and share previous year question papers for competitive examinations
+
+---
